@@ -1,0 +1,95 @@
+body, html {
+  margin: 0;
+  padding: 0; }
+
+header {
+  background-image: url("../img/home-banner.jpg");
+  background-size: cover; }
+  header .container .nav1 {
+    background-color: rgba(255, 255, 255, 0.1);
+    height: 25px; }
+    header .container .nav1 a {
+      padding: 10px; }
+    header .container .nav1 li {
+      padding-right: 30px; }
+  header .container .nav2 :nth-child(3) a {
+    font-size: 12px; }
+  header .container .bg-box {
+    padding: 90px 0; }
+    header .container .bg-box :nth-child(1) h2 {
+      padding-top: 90px;
+      color: #fff3cd; }
+    header .container .bg-box :nth-child(1) p {
+      color: #fff3cd; }
+    header .container .bg-box :nth-child(2) .icons {
+      padding: 20px;
+      background-color: rgba(255, 255, 255, 0.1);
+      border-radius: 10px; }
+      header .container .bg-box :nth-child(2) .icons :nth-child(n) {
+        border: 1px solid rgba(255, 255, 255, 0.1);
+        height: 120px;
+        display: flex;
+        align-items: center;
+        justify-content: center; }
+        header .container .bg-box :nth-child(2) .icons :nth-child(n) img {
+          border: 0; }
+      header .container .bg-box :nth-child(2) .icons :nth-child(2n+1) {
+        border-left: 0; }
+      header .container .bg-box :nth-child(2) .icons :nth-child(2n) {
+        border-right: 0; }
+      header .container .bg-box :nth-child(2) .icons :nth-child(n):hover {
+        background-color: #ffc107; }
+      header .container .bg-box :nth-child(2) .icons .bt {
+        border: 0; }
+
+main .main1 {
+  padding-bottom: 80px;
+  background-color: #efffe9; }
+  main .main1 .box3 {
+    justify-content: center;
+    text-align: center; }
+    main .main1 .box3 h3 {
+      padding-top: 80px;
+      color: #393939; }
+    main .main1 .box3 p {
+      padding: 0 250px;
+      color: #7a9191; }
+  main .main1 .box4 {
+    padding-top: 40px;
+    justify-content: center; }
+    main .main1 .box4 img {
+      width: 100%;
+      height: 100%; }
+    main .main1 .box4 h6 {
+      font-weight: bold;
+      padding-top: 20px;
+      color: #393939; }
+    main .main1 .box4 p {
+      font-size: 15px;
+      color: #7a9191; }
+main .main2 .box5 div {
+  padding: 0; }
+main .main2 .box5 img {
+  width: 100%;
+  height: 100%; }
+main .main3 .box6 {
+  justify-content: center;
+  text-align: center; }
+  main .main3 .box6 h3 {
+    padding-top: 80px;
+    color: #393939; }
+  main .main3 .box6 p {
+    padding: 0 250px;
+    color: #7a9191; }
+main .main3 .box7 {
+  justify-content: center; }
+  main .main3 .box7 .box7-1 div {
+    background-color: #efffe9;
+    padding: 30px 40px 30px 30px; }
+    main .main3 .box7 .box7-1 div img {
+      height: 40px;
+      width: 40px;
+      padding-right: 10px;
+      padding-bottom: 5px; }
+
+/*# sourceMappingURL=style.css.map */
