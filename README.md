@@ -5,5 +5,5 @@ Full responsive.
 
 With attractive animations.
 
-you can see the screnshots below:
+You can see the screnshots below:
 <img src="screen.jpg" />
