@@ -1,10 +1,9 @@
 # woodrox-theme
-html,css,bootstrap
-this them is made only by html , css and bootstarp
+This theme is made only by html, css and bootstarp.
 
-full responsive.
+Full responsive.
 
 With attractive animations.
 
-you can see the screnshot of them below :
+You can see the screnshots below:
 <img src="screen.jpg" />
